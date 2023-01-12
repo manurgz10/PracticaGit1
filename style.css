@@ -24,5 +24,18 @@ ol {
 
 h3 {
     text-align:center;
-    color:aliceblue
+    color:aliceblue;
+    font-family:Verdana;
+}
+
+
+i {
+    font-family:Impact;
+
+}
+
+table {
+    border:1px solid;
+    padding:15px;
+    background-color: lightblue;
 }
